@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello World - Version 1\n");
+    printf("Hello World - Updated from GitHub\n");
+
     return 0;
 }
